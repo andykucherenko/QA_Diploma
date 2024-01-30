@@ -13,7 +13,7 @@
 
 ## Документация
 
-- [План тестирования][([Upl](https://github.com/andykucherenko/QA_Diploma/files/14100371/Plan.md)
+- [План тестирования]([Upl](https://github.com/andykucherenko/QA_Diploma/files/14100371/Plan.md)
 - [Чек-лист](https://github.com/andykucherenko/QA_Diploma/files/14100425/Checklist.xlsx)
 - [Тест-кейсы](https://github.com/andykucherenko/QA_Diploma/files/14100426/Cases.xlsx)
 
